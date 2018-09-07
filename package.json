@@ -20,10 +20,13 @@
   },
   "dependencies": {
     "expo": "^27.0.1",
-    "mobx": "4",
+    "mobx": "^4.4.0",
     "mobx-react": "5",
     "react": "16.3.1",
     "react-native": "~0.55.2",
+    "react-native-material-kit": "^0.5.1",
+    "react-native-navbar": "^2.1.0",
+    "react-navigation": "^2.12.1",
     "react-router-dom": "^4.3.1",
     "react-router-native": "^4.3.0"
   }
